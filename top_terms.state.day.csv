@@ -1,244 +1,446 @@
+state,symptom,count,rank
 Utah,tired,3,1
+Utah,flu,3,1
+Utah,pain,3,1
+Utah,breath,1,4
 Hawaii,fever,6,1
 Hawaii,cough,2,2
 Hawaii,headache,1,3
-Minnesota,tired,2,1
-Minnesota,fever,1,2
-Minnesota,smell,1,2
-Minnesota,cough,1,2
-Minnesota,taste,1,2
+Hawaii,temperature,1,3
+Minnesota,flu,7,1
+Minnesota,tired,2,2
+Minnesota,fever,1,3
+Minnesota,smell,1,3
+Minnesota,breath,1,3
+Minnesota,cough,1,3
+Minnesota,taste,1,3
+Minnesota,pain,1,3
 Ohio,fever,14,1
-Ohio,taste,8,2
-Ohio,smell,6,3
-Ohio,tired,5,4
-Ohio,cough,2,5
-Ohio,pneumonia,1,6
-Ohio,appetite,1,6
-Ohio,fatigue,1,6
+Ohio,flu,11,2
+Ohio,taste,8,3
+Ohio,smell,6,4
+Ohio,pain,6,4
+Ohio,tired,5,6
+Ohio,temperature,3,7
+Ohio,cough,2,8
+Ohio,pneumonia,1,9
+Ohio,appetite,1,9
+Ohio,dry cough,1,9
+Ohio,fatigue,1,9
+Ohio,breath,1,9
 Arkansas,fever,2,1
 Arkansas,tired,2,1
 Arkansas,taste,2,1
-Oregon,smell,3,1
-Oregon,taste,2,2
-Oregon,fever,2,2
-Oregon,tired,1,4
-Oregon,diarrhea,1,4
+Arkansas,pain,2,1
+Arkansas,flu,1,5
+Arkansas,exhausted,1,5
+Oregon,pain,5,1
+Oregon,breath,4,2
+Oregon,flu,4,2
+Oregon,smell,3,4
+Oregon,taste,2,5
+Oregon,fever,2,5
+Oregon,tired,1,7
+Oregon,can't taste,1,7
+Oregon,diarrhea,1,7
 Texas,tired,39,1
 Texas,fever,38,2
 Texas,taste,25,3
-Texas,smell,8,4
-Texas,cough,7,5
-Texas,pneumonia,3,6
-Texas,headache,3,6
-Texas,diarrhea,1,8
-Texas,appetite,1,8
-Pennsylvania,taste,8,1
-Pennsylvania,fever,6,2
-Pennsylvania,smell,5,3
-Pennsylvania,tired,5,3
-Pennsylvania,cough,4,5
-Pennsylvania,headache,3,6
-Pennsylvania,pneumonia,3,6
+Texas,pain,21,4
+Texas,flu,18,5
+Texas,temperature,11,6
+Texas,smell,8,7
+Texas,breath,8,7
+Texas,cough,7,9
+Texas,pneumonia,3,10
+Texas,headache,3,10
+Texas,influenza,2,12
+Texas,dry cough,2,12
+Texas,not eating,2,12
+Texas,short of breath,1,15
+Texas,loss of smell,1,15
+Texas,diarrhea,1,15
+Texas,appetite,1,15
+North Dakota,pain,1,1
+Pennsylvania,flu,10,1
+Pennsylvania,taste,8,2
+Pennsylvania,pain,6,3
+Pennsylvania,breath,6,3
+Pennsylvania,fever,6,3
+Pennsylvania,smell,5,6
+Pennsylvania,tired,5,6
+Pennsylvania,temperature,4,8
+Pennsylvania,cough,4,8
+Pennsylvania,headache,3,10
+Pennsylvania,pneumonia,3,10
+Pennsylvania,sore throat,1,12
+Pennsylvania,ache,1,12
+Pennsylvania,dry cough,1,12
+Pennsylvania,runny nose,1,12
+Pennsylvania,loss of smell,1,12
 Connecticut,taste,3,1
 Connecticut,tired,2,2
-Connecticut,headache,1,3
+Connecticut,pain,2,2
+Connecticut,flu,1,4
+Connecticut,headache,1,4
 Nebraska,fever,3,1
+Nebraska,flu,1,2
 Nebraska,tired,1,2
 Vermont,fever,1,1
+Vermont,flu,1,1
+Vermont,pain,1,1
 Nevada,fever,5,1
 Nevada,tired,4,2
-Nevada,taste,2,3
-Nevada,smell,1,4
-Nevada,cough,1,4
-Nevada,diarrhea,1,4
-Nevada,headache,1,4
-Nevada,fatigue,1,4
-Nevada,pneumonia,1,4
+Nevada,flu,3,3
+Nevada,pain,2,4
+Nevada,exhausted,2,4
+Nevada,taste,2,4
+Nevada,smell,1,7
+Nevada,breath,1,7
+Nevada,cough,1,7
+Nevada,diarrhea,1,7
+Nevada,sore throat,1,7
+Nevada,headache,1,7
+Nevada,fatigue,1,7
+Nevada,temperature,1,7
+Nevada,influenza,1,7
+Nevada,pneumonia,1,7
 Washington,fever,7,1
-Washington,tired,5,2
-Washington,cough,5,2
-Washington,taste,3,4
-Washington,smell,2,5
-Washington,flu-like,1,6
-Washington,fatigue,1,6
-Washington,pneumonia,1,6
-Washington,headache,1,6
+Washington,flu,7,1
+Washington,tired,5,3
+Washington,cough,5,3
+Washington,breath,4,5
+Washington,taste,3,6
+Washington,temperature,3,6
+Washington,smell,2,8
+Washington,not eating,1,9
+Washington,flu-like,1,9
+Washington,anosmia,1,9
+Washington,fatigue,1,9
+Washington,pneumonia,1,9
+Washington,headache,1,9
+Washington,pain,1,9
+Washington,dry cough,1,9
 Illinois,tired,13,1
 Illinois,fever,8,2
 Illinois,taste,8,2
-Illinois,cough,6,4
-Illinois,headache,2,5
-Illinois,smell,1,6
-Illinois,appetite,1,6
-Illinois,fatigue,1,6
-Illinois,nausea,1,6
+Illinois,breath,7,4
+Illinois,cough,6,5
+Illinois,flu,5,6
+Illinois,pain,4,7
+Illinois,temperature,3,8
+Illinois,headache,2,9
+Illinois,short of breath,1,10
+Illinois,smell,1,10
+Illinois,appetite,1,10
+Illinois,shortness of breath,1,10
+Illinois,fatigue,1,10
+Illinois,nausea,1,10
+Illinois,influenza,1,10
+Illinois,body aches,1,10
 Oklahoma,taste,2,1
 Oklahoma,fever,2,1
 Oklahoma,tired,2,1
+Oklahoma,breath,1,4
+Oklahoma,flu,1,4
 Oklahoma,cough,1,4
-District of Columbia,tired,6,1
-District of Columbia,taste,4,2
-District of Columbia,smell,3,3
-District of Columbia,flu-like,1,4
-District of Columbia,pneumonia,1,4
-District of Columbia,fever,1,4
-District of Columbia,fatigue,1,4
-District of Columbia,headache,1,4
+District of Columbia,flu,10,1
+District of Columbia,tired,6,2
+District of Columbia,pain,5,3
+District of Columbia,taste,4,4
+District of Columbia,breath,4,4
+District of Columbia,smell,3,6
+District of Columbia,flu-like,1,7
+District of Columbia,pneumonia,1,7
+District of Columbia,fever,1,7
+District of Columbia,fatigue,1,7
+District of Columbia,influenza,1,7
+District of Columbia,not eating,1,7
+District of Columbia,headache,1,7
+District of Columbia,not hungry,1,7
+District of Columbia,exhausted,1,7
 Delaware,fever,1,1
 Delaware,tired,1,1
+Alaska,flu,1,1
 Alaska,tired,1,1
 New Mexico,tired,2,1
+New Mexico,flu,1,2
 New Mexico,fatigue,1,2
 New Mexico,fever,1,2
+New Mexico,temperature,1,2
 New Mexico,cough,1,2
 New Mexico,taste,1,2
 West Virginia,tired,1,1
 West Virginia,fever,1,1
 West Virginia,taste,1,1
+West Virginia,exhausted,1,1
 Missouri,tired,4,1
 Missouri,fever,4,1
-Missouri,headache,1,3
-Missouri,taste,1,3
-Missouri,smell,1,3
-Rhode Island,taste,1,1
-Rhode Island,smell,1,1
+Missouri,flu,4,1
+Missouri,breath,3,4
+Missouri,headache,1,5
+Missouri,taste,1,5
+Missouri,exhausted,1,5
+Missouri,temperature,1,5
+Missouri,pain,1,5
+Missouri,smell,1,5
+Rhode Island,flu,2,1
+Rhode Island,pain,1,2
+Rhode Island,temperature,1,2
+Rhode Island,taste,1,2
+Rhode Island,smell,1,2
 Georgia,taste,18,1
 Georgia,tired,15,2
+Georgia,flu,6,3
 Georgia,fever,6,3
-Georgia,cough,5,4
-Georgia,smell,4,5
-Georgia,pneumonia,3,6
+Georgia,cough,5,5
+Georgia,pain,5,5
+Georgia,breath,5,5
+Georgia,smell,4,8
+Georgia,temperature,4,8
+Georgia,pneumonia,3,10
+Georgia,dry cough,1,11
+Georgia,not eating,1,11
+Georgia,anorexia,1,11
+Georgia,exhausted,1,11
 Montana,fever,2,1
+Montana,flu,1,2
 Michigan,tired,8,1
+Michigan,pain,6,2
 Michigan,fever,6,2
 Michigan,taste,6,2
-Michigan,smell,2,4
-Michigan,cough,1,5
-Virginia,tired,4,1
-Virginia,smell,3,2
-Virginia,cough,3,2
-Virginia,pneumonia,1,4
-Virginia,taste,1,4
+Michigan,flu,2,5
+Michigan,smell,2,5
+Michigan,breath,2,5
+Michigan,cough,1,8
+Virginia,pain,5,1
+Virginia,tired,4,2
+Virginia,flu,4,2
+Virginia,smell,3,4
+Virginia,cough,3,4
+Virginia,breath,2,6
+Virginia,temperature,1,7
+Virginia,not eating,1,7
+Virginia,anorexia,1,7
+Virginia,pneumonia,1,7
+Virginia,taste,1,7
 North Carolina,tired,12,1
 North Carolina,taste,7,2
-North Carolina,fever,4,3
-North Carolina,cough,1,4
-North Carolina,diarrhea,1,4
-North Carolina,flu-like,1,4
-North Carolina,smell,1,4
+North Carolina,temperature,6,3
+North Carolina,fever,4,4
+North Carolina,flu,3,5
+North Carolina,pain,3,5
+North Carolina,breath,2,7
+North Carolina,cough,1,8
+North Carolina,diarrhea,1,8
+North Carolina,flu-like,1,8
+North Carolina,smell,1,8
+North Carolina,dry cough,1,8
+North Carolina,anosmia,1,8
 Wyoming,smell,1,1
-Kansas,taste,2,1
-Kansas,tired,1,2
+Kansas,flu,5,1
+Kansas,taste,2,2
+Kansas,tired,1,3
+Kansas,pain,1,3
+Kansas,temperature,1,3
+Kansas,breath,1,3
 New Jersey,smell,4,1
-New Jersey,tired,3,2
-New Jersey,fever,2,3
-New Jersey,taste,2,3
+New Jersey,pain,4,1
+New Jersey,tired,3,3
+New Jersey,flu,3,3
+New Jersey,fever,2,5
+New Jersey,taste,2,5
+New Jersey,temperature,1,7
+New Jersey,flu like,1,7
 Maryland,tired,9,1
 Maryland,fever,8,2
 Maryland,taste,7,3
 Maryland,cough,4,4
-Maryland,smell,2,5
-Maryland,fatigue,1,6
-Maryland,appetite,1,6
-Maryland,diarrhea,1,6
+Maryland,pain,4,4
+Maryland,flu,4,4
+Maryland,smell,2,7
+Maryland,breath,1,8
+Maryland,fatigue,1,8
+Maryland,appetite,1,8
+Maryland,exhausted,1,8
+Maryland,diarrhea,1,8
 Alabama,cough,4,1
+Alabama,temperature,3,2
 Alabama,fever,3,2
-Alabama,tired,2,3
-Alabama,smell,1,4
-Alabama,taste,1,4
-Alabama,pneumonia,1,4
+Alabama,tired,2,4
+Alabama,smell,1,5
+Alabama,taste,1,5
+Alabama,runny nose,1,5
+Alabama,flu,1,5
+Alabama,pneumonia,1,5
 Arizona,fever,7,1
-Arizona,cough,4,2
-Arizona,tired,4,2
-Arizona,taste,3,4
-Arizona,smell,3,4
-Arizona,appetite,1,6
-Arizona,pneumonia,1,6
-Iowa,tired,1,1
+Arizona,flu,5,2
+Arizona,cough,4,3
+Arizona,tired,4,3
+Arizona,breath,3,5
+Arizona,taste,3,5
+Arizona,pain,3,5
+Arizona,smell,3,5
+Arizona,temperature,2,9
+Arizona,exhausted,1,10
+Arizona,appetite,1,10
+Arizona,dry cough,1,10
+Arizona,pneumonia,1,10
+Iowa,pain,5,1
+Iowa,flu,2,2
+Iowa,influenza,1,3
+Iowa,breath,1,3
+Iowa,tired,1,3
 Massachusetts,tired,7,1
-Massachusetts,fever,3,2
-Massachusetts,taste,2,3
-Massachusetts,pneumonia,2,3
-Massachusetts,cough,1,5
-Massachusetts,flu-like,1,5
-Massachusetts,headache,1,5
+Massachusetts,flu,7,1
+Massachusetts,pain,4,3
+Massachusetts,fever,3,4
+Massachusetts,breath,3,4
+Massachusetts,taste,2,6
+Massachusetts,influenza,2,6
+Massachusetts,pneumonia,2,6
+Massachusetts,not eating,1,9
+Massachusetts,cough,1,9
+Massachusetts,flu-like,1,9
+Massachusetts,headache,1,9
+Massachusetts,temperature,1,9
 Kentucky,taste,4,1
 Kentucky,fever,3,2
 Kentucky,smell,2,3
-Kentucky,cough,1,4
-Kentucky,tired,1,4
-Kentucky,headache,1,4
+Kentucky,flu,2,3
+Kentucky,loss of smell,1,5
+Kentucky,cough,1,5
+Kentucky,tired,1,5
+Kentucky,headache,1,5
 Louisiana,tired,10,1
 Louisiana,taste,8,2
-Louisiana,fever,4,3
-Louisiana,smell,3,4
-Louisiana,headache,2,5
-Louisiana,nausea,1,6
-Louisiana,cough,1,6
+Louisiana,flu,6,3
+Louisiana,fever,4,4
+Louisiana,smell,3,5
+Louisiana,influenza,2,6
+Louisiana,temperature,2,6
+Louisiana,pain,2,6
+Louisiana,headache,2,6
+Louisiana,loss of taste,1,10
+Louisiana,nausea,1,10
+Louisiana,exhausted,1,10
+Louisiana,cough,1,10
+Louisiana,breath,1,10
 Mississippi,tired,3,1
+Mississippi,pain,2,2
 Mississippi,cough,2,2
-Mississippi,smell,1,3
-Mississippi,taste,1,3
-Tennessee,tired,7,1
-Tennessee,cough,6,2
-Tennessee,taste,3,3
-Tennessee,fever,3,3
-Tennessee,flu-like,1,5
-Tennessee,smell,1,5
-Tennessee,appetite,1,5
-Tennessee,fatigue,1,5
+Mississippi,flu,1,4
+Mississippi,smell,1,4
+Mississippi,taste,1,4
+Tennessee,flu,10,1
+Tennessee,tired,7,2
+Tennessee,cough,6,3
+Tennessee,taste,3,4
+Tennessee,fever,3,4
+Tennessee,breath,2,6
+Tennessee,pain,2,6
+Tennessee,temperature,1,8
+Tennessee,flu-like,1,8
+Tennessee,smell,1,8
+Tennessee,appetite,1,8
+Tennessee,fatigue,1,8
 Florida,fever,25,1
-Florida,tired,19,2
-Florida,taste,12,3
-Florida,cough,8,4
-Florida,pneumonia,4,5
-Florida,headache,3,6
-Florida,flu-like,1,7
-Florida,smell,1,7
-Florida,nausea,1,7
-Florida,fatigue,1,7
-Florida,appetite,1,7
-Indiana,taste,4,1
-Indiana,tired,2,2
-Indiana,cough,1,3
-Indiana,fever,1,3
-Indiana,appetite,1,3
+Florida,flu,24,2
+Florida,tired,19,3
+Florida,temperature,14,4
+Florida,taste,12,5
+Florida,breath,9,6
+Florida,cough,8,7
+Florida,pain,6,8
+Florida,pneumonia,4,9
+Florida,headache,3,10
+Florida,dry cough,2,11
+Florida,shortness of breath,1,12
+Florida,exhausted,1,12
+Florida,flu-like,1,12
+Florida,smell,1,12
+Florida,sore throat,1,12
+Florida,nausea,1,12
+Florida,fatigue,1,12
+Florida,flu like,1,12
+Florida,loss of smell,1,12
+Florida,appetite,1,12
+Indiana,flu,5,1
+Indiana,taste,4,2
+Indiana,pain,3,3
+Indiana,tired,2,4
+Indiana,temperature,1,5
+Indiana,cough,1,5
+Indiana,influenza,1,5
+Indiana,fever,1,5
+Indiana,exhausted,1,5
+Indiana,appetite,1,5
 Idaho,tired,3,1
 Idaho,taste,1,2
+Idaho,breath,1,2
 Idaho,fever,1,2
-South Carolina,tired,4,1
-South Carolina,fever,3,2
-South Carolina,smell,1,3
-South Carolina,taste,1,3
-South Carolina,appetite,1,3
+South Carolina,flu,5,1
+South Carolina,tired,4,2
+South Carolina,fever,3,3
+South Carolina,temperature,2,4
+South Carolina,smell,1,5
+South Carolina,pain,1,5
+South Carolina,taste,1,5
+South Carolina,appetite,1,5
 South Dakota,tired,1,1
 South Dakota,fever,1,1
-California,tired,49,1
-California,fever,31,2
-California,taste,27,3
-California,cough,20,4
-California,smell,7,5
-California,headache,4,6
-California,appetite,4,6
-California,pneumonia,3,8
-California,diarrhea,1,9
-California,flu-like,1,9
+California,flu,57,1
+California,tired,49,2
+California,pain,38,3
+California,fever,31,4
+California,taste,27,5
+California,cough,20,6
+California,breath,16,7
+California,influenza,7,8
+California,temperature,7,8
+California,smell,7,8
+California,headache,4,11
+California,appetite,4,11
+California,pneumonia,3,13
+California,exhausted,3,13
+California,not eating,2,15
+California,flu like,1,16
+California,dry cough,1,16
+California,anosmia,1,16
+California,sore throat,1,16
+California,trouble breathing,1,16
+California,diarrhea,1,16
+California,flu-like,1,16
+California,shortness of breath,1,16
 New York,tired,15,1
-New York,taste,8,2
-New York,fever,5,3
-New York,smell,4,4
-New York,cough,4,4
-New York,appetite,2,6
-New York,diarrhea,1,7
-New York,headache,1,7
-New York,pneumonia,1,7
+New York,flu,14,2
+New York,temperature,12,3
+New York,taste,8,4
+New York,breath,8,4
+New York,fever,5,6
+New York,pain,5,6
+New York,smell,4,8
+New York,cough,4,8
+New York,exhausted,3,10
+New York,appetite,2,11
+New York,diarrhea,1,12
+New York,influenza,1,12
+New York,headache,1,12
+New York,short of breath,1,12
+New York,flu like,1,12
+New York,pneumonia,1,12
 Wisconsin,taste,4,1
+Wisconsin,breath,2,2
 Wisconsin,tired,2,2
-Wisconsin,cough,1,3
-Wisconsin,smell,1,3
-Wisconsin,fever,1,3
-Colorado,fever,5,1
-Colorado,taste,2,2
-Colorado,smell,2,2
-Colorado,cough,1,4
+Wisconsin,pain,2,2
+Wisconsin,cough,1,5
+Wisconsin,smell,1,5
+Wisconsin,fever,1,5
+Colorado,flu,6,1
+Colorado,fever,5,2
+Colorado,pain,4,3
+Colorado,taste,2,4
+Colorado,smell,2,4
+Colorado,temperature,1,6
+Colorado,cough,1,6
 Maine,taste,1,1
