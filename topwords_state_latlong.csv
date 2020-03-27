@@ -1,0 +1,233 @@
+state,Longitude,Latitude,word,freq,rank
+Alabama,-86.82839,32.78888,cough,4,1
+Alabama,-86.82839,32.78888,fever,3,2
+Alabama,-86.82839,32.78888,tired,2,3
+Alabama,-86.82839,32.78888,smell,1,4
+Alabama,-86.82839,32.78888,taste,1,4
+Alabama,-86.82839,32.78888,pneumonia,1,4
+Arizona,-111.66448000000001,34.29283,fever,7,1
+Arizona,-111.66448000000001,34.29283,cough,4,2
+Arizona,-111.66448000000001,34.29283,tired,4,2
+Arizona,-111.66448000000001,34.29283,taste,3,4
+Arizona,-111.66448000000001,34.29283,smell,3,4
+Arizona,-111.66448000000001,34.29283,appetite,1,6
+Arizona,-111.66448000000001,34.29283,pneumonia,1,6
+Arkansas,-92.43785,34.90002,fever,2,1
+Arkansas,-92.43785,34.90002,tired,2,1
+Arkansas,-92.43785,34.90002,taste,2,1
+California,-119.61176999999999,37.253659999999996,tired,49,1
+California,-119.61176999999999,37.253659999999996,fever,31,2
+California,-119.61176999999999,37.253659999999996,taste,27,3
+California,-119.61176999999999,37.253659999999996,cough,20,4
+California,-119.61176999999999,37.253659999999996,smell,7,5
+California,-119.61176999999999,37.253659999999996,headache,4,6
+California,-119.61176999999999,37.253659999999996,appetite,4,6
+California,-119.61176999999999,37.253659999999996,pneumonia,3,8
+California,-119.61176999999999,37.253659999999996,diarrhea,1,9
+California,-119.61176999999999,37.253659999999996,flu-like,1,9
+Colorado,-105.5476,38.99842,fever,5,1
+Colorado,-105.5476,38.99842,taste,2,2
+Colorado,-105.5476,38.99842,smell,2,2
+Colorado,-105.5476,38.99842,cough,1,4
+Connecticut,-72.72689,41.61873,taste,3,1
+Connecticut,-72.72689,41.61873,tired,2,2
+Connecticut,-72.72689,41.61873,headache,1,3
+Delaware,-75.50095,39.00063,fever,1,1
+Delaware,-75.50095,39.00063,tired,1,1
+Florida,-81.57,28.2,fever,25,1
+Florida,-81.57,28.2,tired,19,2
+Florida,-81.57,28.2,taste,12,3
+Florida,-81.57,28.2,cough,8,4
+Florida,-81.57,28.2,pneumonia,4,5
+Florida,-81.57,28.2,headache,3,6
+Florida,-81.57,28.2,flu-like,1,7
+Florida,-81.57,28.2,smell,1,7
+Florida,-81.57,28.2,nausea,1,7
+Florida,-81.57,28.2,fatigue,1,7
+Florida,-81.57,28.2,appetite,1,7
+Georgia,-83.44336,32.64809,taste,18,1
+Georgia,-83.44336,32.64809,tired,15,2
+Georgia,-83.44336,32.64809,fever,6,3
+Georgia,-83.44336,32.64809,cough,5,4
+Georgia,-83.44336,32.64809,smell,4,5
+Georgia,-83.44336,32.64809,pneumonia,3,6
+Idaho,-114.65872,44.39033,tired,3,1
+Idaho,-114.65872,44.39033,taste,1,2
+Idaho,-114.65872,44.39033,fever,1,2
+Illinois,-89.19752,40.06348,tired,13,1
+Illinois,-89.19752,40.06348,fever,8,2
+Illinois,-89.19752,40.06348,taste,8,2
+Illinois,-89.19752,40.06348,cough,6,4
+Illinois,-89.19752,40.06348,headache,2,5
+Illinois,-89.19752,40.06348,smell,1,6
+Illinois,-89.19752,40.06348,appetite,1,6
+Illinois,-89.19752,40.06348,fatigue,1,6
+Illinois,-89.19752,40.06348,nausea,1,6
+Indiana,-86.27501,39.90782,taste,4,1
+Indiana,-86.27501,39.90782,tired,2,2
+Indiana,-86.27501,39.90782,cough,1,3
+Indiana,-86.27501,39.90782,fever,1,3
+Indiana,-86.27501,39.90782,appetite,1,3
+Iowa,-93.49896,42.07492,tired,1,1
+Kansas,-98.37891,38.48515,taste,2,1
+Kansas,-98.37891,38.48515,tired,1,2
+Kentucky,-85.28902,37.52595,taste,4,1
+Kentucky,-85.28902,37.52595,fever,3,2
+Kentucky,-85.28902,37.52595,smell,2,3
+Kentucky,-85.28902,37.52595,cough,1,4
+Kentucky,-85.28902,37.52595,tired,1,4
+Kentucky,-85.28902,37.52595,headache,1,4
+Louisiana,-91.94549,31.02018,tired,10,1
+Louisiana,-91.94549,31.02018,taste,8,2
+Louisiana,-91.94549,31.02018,fever,4,3
+Louisiana,-91.94549,31.02018,smell,3,4
+Louisiana,-91.94549,31.02018,headache,2,5
+Louisiana,-91.94549,31.02018,nausea,1,6
+Louisiana,-91.94549,31.02018,cough,1,6
+Maine,-69.21419,45.34413,taste,1,1
+Maryland,-76.75239,39.02997,tired,9,1
+Maryland,-76.75239,39.02997,fever,8,2
+Maryland,-76.75239,39.02997,taste,7,3
+Maryland,-76.75239,39.02997,cough,4,4
+Maryland,-76.75239,39.02997,smell,2,5
+Maryland,-76.75239,39.02997,fatigue,1,6
+Maryland,-76.75239,39.02997,appetite,1,6
+Maryland,-76.75239,39.02997,diarrhea,1,6
+Massachusetts,-71.79442,42.25865,tired,7,1
+Massachusetts,-71.79442,42.25865,fever,3,2
+Massachusetts,-71.79442,42.25865,taste,2,3
+Massachusetts,-71.79442,42.25865,pneumonia,2,3
+Massachusetts,-71.79442,42.25865,cough,1,5
+Massachusetts,-71.79442,42.25865,flu-like,1,5
+Massachusetts,-71.79442,42.25865,headache,1,5
+Michigan,-84.6208,43.48876,tired,8,1
+Michigan,-84.6208,43.48876,fever,6,2
+Michigan,-84.6208,43.48876,taste,6,2
+Michigan,-84.6208,43.48876,smell,2,4
+Michigan,-84.6208,43.48876,cough,1,5
+Minnesota,-94.30634,46.31793,tired,2,1
+Minnesota,-94.30634,46.31793,fever,1,2
+Minnesota,-94.30634,46.31793,smell,1,2
+Minnesota,-94.30634,46.31793,cough,1,2
+Minnesota,-94.30634,46.31793,taste,1,2
+Mississippi,-89.66216,32.75095,tired,3,1
+Mississippi,-89.66216,32.75095,cough,2,2
+Mississippi,-89.66216,32.75095,smell,1,3
+Mississippi,-89.66216,32.75095,taste,1,3
+Missouri,-92.47789,38.36847,tired,4,1
+Missouri,-92.47789,38.36847,fever,4,1
+Missouri,-92.47789,38.36847,headache,1,3
+Missouri,-92.47789,38.36847,taste,1,3
+Missouri,-92.47789,38.36847,smell,1,3
+Montana,-109.64303000000001,47.03433,fever,2,1
+Nebraska,-99.81026,41.527190000000004,fever,3,1
+Nebraska,-99.81026,41.527190000000004,tired,1,2
+Nevada,-116.65525,39.3563,fever,5,1
+Nevada,-116.65525,39.3563,tired,4,2
+Nevada,-116.65525,39.3563,taste,2,3
+Nevada,-116.65525,39.3563,smell,1,4
+Nevada,-116.65525,39.3563,cough,1,4
+Nevada,-116.65525,39.3563,diarrhea,1,4
+Nevada,-116.65525,39.3563,headache,1,4
+Nevada,-116.65525,39.3563,fatigue,1,4
+Nevada,-116.65525,39.3563,pneumonia,1,4
+New Jersey,-74.66084000000001,40.18497,smell,4,1
+New Jersey,-74.66084000000001,40.18497,tired,3,2
+New Jersey,-74.66084000000001,40.18497,fever,2,3
+New Jersey,-74.66084000000001,40.18497,taste,2,3
+New Mexico,-106.10836,34.421409999999995,tired,2,1
+New Mexico,-106.10836,34.421409999999995,fatigue,1,2
+New Mexico,-106.10836,34.421409999999995,fever,1,2
+New Mexico,-106.10836,34.421409999999995,cough,1,2
+New Mexico,-106.10836,34.421409999999995,taste,1,2
+New York,-75.49899,42.937709999999996,tired,15,1
+New York,-75.49899,42.937709999999996,taste,8,2
+New York,-75.49899,42.937709999999996,fever,5,3
+New York,-75.49899,42.937709999999996,smell,4,4
+New York,-75.49899,42.937709999999996,cough,4,4
+New York,-75.49899,42.937709999999996,appetite,2,6
+New York,-75.49899,42.937709999999996,diarrhea,1,7
+New York,-75.49899,42.937709999999996,headache,1,7
+New York,-75.49899,42.937709999999996,pneumonia,1,7
+North Carolina,-79.18181,35.53869,tired,12,1
+North Carolina,-79.18181,35.53869,taste,7,2
+North Carolina,-79.18181,35.53869,fever,4,3
+North Carolina,-79.18181,35.53869,cough,1,4
+North Carolina,-79.18181,35.53869,diarrhea,1,4
+North Carolina,-79.18181,35.53869,flu-like,1,4
+North Carolina,-79.18181,35.53869,smell,1,4
+Ohio,-82.79137,40.29479,fever,14,1
+Ohio,-82.79137,40.29479,taste,8,2
+Ohio,-82.79137,40.29479,smell,6,3
+Ohio,-82.79137,40.29479,tired,5,4
+Ohio,-82.79137,40.29479,cough,2,5
+Ohio,-82.79137,40.29479,pneumonia,1,6
+Ohio,-82.79137,40.29479,appetite,1,6
+Ohio,-82.79137,40.29479,fatigue,1,6
+Oklahoma,-97.50896999999999,35.5843,taste,2,1
+Oklahoma,-97.50896999999999,35.5843,fever,2,1
+Oklahoma,-97.50896999999999,35.5843,tired,2,1
+Oklahoma,-97.50896999999999,35.5843,cough,1,4
+Oregon,-120.55673999999999,43.93693,smell,3,1
+Oregon,-120.55673999999999,43.93693,taste,2,2
+Oregon,-120.55673999999999,43.93693,fever,2,2
+Oregon,-120.55673999999999,43.93693,tired,1,4
+Oregon,-120.55673999999999,43.93693,diarrhea,1,4
+Pennsylvania,-77.79954000000001,40.874159999999996,taste,8,1
+Pennsylvania,-77.79954000000001,40.874159999999996,fever,6,2
+Pennsylvania,-77.79954000000001,40.874159999999996,smell,5,3
+Pennsylvania,-77.79954000000001,40.874159999999996,tired,5,3
+Pennsylvania,-77.79954000000001,40.874159999999996,cough,4,5
+Pennsylvania,-77.79954000000001,40.874159999999996,headache,3,6
+Pennsylvania,-77.79954000000001,40.874159999999996,pneumonia,3,6
+Rhode Island,-71.53089,41.67243,taste,1,1
+Rhode Island,-71.53089,41.67243,smell,1,1
+South Carolina,-80.89520999999999,33.90818,tired,4,1
+South Carolina,-80.89520999999999,33.90818,fever,3,2
+South Carolina,-80.89520999999999,33.90818,smell,1,3
+South Carolina,-80.89520999999999,33.90818,taste,1,3
+South Carolina,-80.89520999999999,33.90818,appetite,1,3
+South Dakota,-100.23071,44.43595,tired,1,1
+South Dakota,-100.23071,44.43595,fever,1,1
+Tennessee,-86.34064000000001,35.84332,tired,7,1
+Tennessee,-86.34064000000001,35.84332,cough,6,2
+Tennessee,-86.34064000000001,35.84332,taste,3,3
+Tennessee,-86.34064000000001,35.84332,fever,3,3
+Tennessee,-86.34064000000001,35.84332,flu-like,1,5
+Tennessee,-86.34064000000001,35.84332,smell,1,5
+Tennessee,-86.34064000000001,35.84332,appetite,1,5
+Tennessee,-86.34064000000001,35.84332,fatigue,1,5
+Texas,-99.33232,31.462,tired,39,1
+Texas,-99.33232,31.462,fever,38,2
+Texas,-99.33232,31.462,taste,25,3
+Texas,-99.33232,31.462,smell,8,4
+Texas,-99.33232,31.462,cough,7,5
+Texas,-99.33232,31.462,pneumonia,3,6
+Texas,-99.33232,31.462,headache,3,6
+Texas,-99.33232,31.462,diarrhea,1,8
+Texas,-99.33232,31.462,appetite,1,8
+Utah,-111.67806000000002,39.32378,tired,3,1
+Vermont,-72.66221,44.07478,fever,1,1
+Virginia,-78.86117,37.5103,tired,4,1
+Virginia,-78.86117,37.5103,smell,3,2
+Virginia,-78.86117,37.5103,cough,3,2
+Virginia,-78.86117,37.5103,pneumonia,1,4
+Virginia,-78.86117,37.5103,taste,1,4
+Washington,-120.47905,47.383109999999995,fever,7,1
+Washington,-120.47905,47.383109999999995,tired,5,2
+Washington,-120.47905,47.383109999999995,cough,5,2
+Washington,-120.47905,47.383109999999995,taste,3,4
+Washington,-120.47905,47.383109999999995,smell,2,5
+Washington,-120.47905,47.383109999999995,flu-like,1,6
+Washington,-120.47905,47.383109999999995,fatigue,1,6
+Washington,-120.47905,47.383109999999995,pneumonia,1,6
+Washington,-120.47905,47.383109999999995,headache,1,6
+West Virginia,-80.61164000000001,38.64411,tired,1,1
+West Virginia,-80.61164000000001,38.64411,fever,1,1
+West Virginia,-80.61164000000001,38.64411,taste,1,1
+Wisconsin,-90.01083,44.6351,taste,4,1
+Wisconsin,-90.01083,44.6351,tired,2,2
+Wisconsin,-90.01083,44.6351,cough,1,3
+Wisconsin,-90.01083,44.6351,smell,1,3
+Wisconsin,-90.01083,44.6351,fever,1,3
+Wyoming,-107.55123999999999,42.999629999999996,smell,1,1
